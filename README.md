@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yarin
 - 👀 I’m interested in web/game development
 - 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on anything you may wish
+- 💞️ I’m looking to collaborate with anyone who may need help!
 - 📫 You can send a email to projects.yarin@gmail.com if you want to request anything from me!
 
 <!---
